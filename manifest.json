@@ -1,0 +1,24 @@
+
+{
+  "name": "Rifas",
+  "short_name": "Rifas",
+  "start_url": "/rifa/",
+  "scope": "/rifa/",
+  "display": "standalone",
+  "background_color": "#4b0a91",
+  "theme_color": "#6b16bd",
+  "icons": [
+    {
+      "src": "/rifa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/rifa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
